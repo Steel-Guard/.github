@@ -15,6 +15,7 @@
 ## 👥 Maintainers
 
 - [s0uldotash](https://github.com/s0uldotash) - Creator & Maintainer
+- [sexualsalt774](https://github.com/sexualsalt774) - Developer
 
 ## 🚧 DISCLAIMER
 
